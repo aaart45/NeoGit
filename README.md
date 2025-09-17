@@ -1,1 +1,3 @@
 # NeoGit
+
+author - Navneet Singh
